@@ -25,9 +25,9 @@
   },
     {
     "email": "effiejia@berkeley.edu",
-    "title": "VITALIS",
+    "title": "VITALS",
     "owner": "Effie Jia",
-    "description": "VITALS is an exploration of plant sonification. It experiments with the collection of plant 'biometric' data through sensing technologies, and converts it into aural outputs as a translation of plant 'communication.' The material focus of the project is not the plants, but rather the medium and method through which they are represented. VITALS poses the question: Will we eventually be able to converse with non-human beings? It is a subcomponent to my thesis project, VITALIS, which uses the plant sonification learnings from this material exploration to design a vitals monitor for plants.",
+    "description": "VITALS is an exploration of plant sonification. It experiments with the collection of plant 'biometric' data through sensing technologies, and converts it into aural outputs as a translation of plant 'communication.' The material focus of the project is not the plants, but rather the medium and method through which they are represented. VITALS poses the question: Will we eventually be able to converse with non-human beings? It is a subcomponent to my thesis project, VITALS, which uses the plant sonification learnings from this material exploration to design a vitals monitor for plants.",
     "materials": "Plant Sonification",
     "path": "vitals.jpg"
   },
@@ -110,5 +110,21 @@
     "description": "The symbiotic clothes explore an alternative future of using living things as wearables.",
     "materials": "Airplants and Ecoflex",
     "path": "symbioticclothing.jpg"
+  },
+  {
+    "email": "tiger@berkeley.edu",
+    "title": "Concrete jungle",
+    "owner": "Luna Wang, Jiaxuan Ren",
+    "description": "A study of bamboo's cellular structure.",
+    "materials": "Concrete, hemp",
+    "path": "concretejungle.jpg"
+  },
+  {
+    "email": "kailinli@berkeley.edu",
+    "title": "Hu-man",
+    "owner": "Kailin Li",
+    "description": "An artistic expression and reflection of a personal ankle injury and the recovery journey for the last three months using tiger balm, a traditional Chinese ointment.",
+    "materials": "Tiger balm, Chinese ink, Xuan paper",
+    "path": "human.jpg"
   }
 ]
