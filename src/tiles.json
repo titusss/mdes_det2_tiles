@@ -1,0 +1,114 @@
+[
+  {
+    "email": "pennylin811@berkeley.edu",
+    "title": "Second Skin",
+    "owner": "Shuyang, Mercedes, Penny",
+    "materials": "Bees Products",
+    "description": "Second skin is xxx",
+    "path": "secondskin.jpg"
+  },
+  {
+    "email": "xiaobaiji@berkeley.edu",
+    "title": "Fixation",
+    "owner": "Xiaobai Ji",
+    "description": "This project investigates bioplastics + the common leftovers that will fundamentally change the characteristics of the bioplastics.",
+    "materials": "Dryer lint, orange peel, egg shells, gelatin, carrageenan, sodium alginate",
+    "path": "fixation.jpg"
+  },
+  {
+    "email": "abhig@berkeley.edu",
+    "title": "Coco",
+    "owner": "Abhi Ghavalkar",
+    "description": "My mother’s side of the family is from the South Indian state of Kerala which literally translates to “Land of Coconut Trees”. In Kerala, they refer to the coconut tree as “Kalpa Vriksham” which means that all parts of a coconut tree are useful in some way or the other. Traditionally, the natural fiber extracted from the outer husk of a coconut is used in products such as floor mats, doormats, brushes, and floor mattresses. In my material exploration, I discovered ways of elevating coconut husk or fiber to almost treat it as a luxury good that goes beyond the scope of the simple utilitarian applications. This resulted in the creation of Coco, a set of paintbrushes made entirely using organic materials, predominantly using different parts of a (coconut) palm tree.",
+    "materials": "Coconut Fiber (Coir)",
+    "path": "coco.jpg"
+  },
+    {
+    "email": "effiejia@berkeley.edu",
+    "title": "VITALIS",
+    "owner": "Effie Jia",
+    "description": "VITALS is an exploration of plant sonification. It experiments with the collection of plant 'biometric' data through sensing technologies, and converts it into aural outputs as a translation of plant 'communication.' The material focus of the project is not the plants, but rather the medium and method through which they are represented. VITALS poses the question: Will we eventually be able to converse with non-human beings? It is a subcomponent to my thesis project, VITALIS, which uses the plant sonification learnings from this material exploration to design a vitals monitor for plants.",
+    "materials": "Plant Sonification",
+    "path": "vitals.jpg"
+  },
+    {
+    "email": "eli_lee@berkeley.edu",
+    "title": "Bisque",
+    "owner": "Elijah Lee",
+    "description": "Bisque refers to ware that has been fired once and has no chemically bonded water left in the clay. When clays are turned into ceramics, the bisque pieces are stable and porous enough to absorb the glaze for the final firing. While this in-between stage is usually ignored, this project investigates the bisques insoluble and permeable characteristics using digital fabrication.",
+    "materials": "Porcelain",
+    "path": "bisque.jpg"
+  },
+      {
+    "email": "maddux@berkeley.edu",
+    "title": "Plastic Charcoal",
+    "owner": "Susanne Pierce Maddux",
+    "description": "A material exploration of charcoal as a bioplastic.",
+    "materials": "Active charcoal, gelatin, vegetable glycerine & water",
+    "path": "plasticcharcoal.jpg"
+  },
+      {
+    "email": "wuyiying@berkeley.edu",
+    "title": "Sceorf",
+    "owner": "Yiying Wu",
+    "description": "Sceorf means ‘cut to shreds’ in late old English. This project celebrates the inherent qualities of given skins while defining a new role for leather that had never been previously considered by grinding leather into shreds and scurfs. No resin or any other chemical component has been used along the production, so that the outcome new material carefully considering the environmental impact. It aims at expoloring the full use of leather waste and creating aesthetics characterists of leather product from the fiber perspective.",
+    "materials": "Split leather (Second layer leather)",
+    "path": "sceorf.jpg"
+  },
+      {
+    "email": "jan.veicht@berkeley.edu",
+    "title": "Of course I still use you",
+    "owner": "Jan-Simon Veicht",
+    "description": "There is no waste in nature. In the living world, everything that dies becomes food for something else. Waste and wastefulness is a human-made thing. This project shows the potential of discarded workshop waste at the Jacobs Center for Design Innovation and how it could stay useful within the building instead of ending up in a landfill.",
+    "materials": "Sawdust and Cardboard",
+    "path": "ofcourseistilluseyou.jpg"
+  },
+      {
+    "email": "ggrigoriadis@berkeley.edu",
+    "title": "Hybrid Annexes",
+    "owner": "Georgios Grigoriadis",
+    "description": "Hybrid Annexes tries to explore the residues of human activity in a creative, expressive and serendipitous way. In an era of constant and intense ecological mutations, this work argues that we have to investigate new paradigms of actions around materiality and ecological destruction. An emerging mentality that rejects prevention and propagation of previous material processes and embraces transformation through this era of crisis. Hybrid Annexes is a project that challenges our Enlightenment-style thinking about materiality and proposes a more metabolistic approach to it.",
+    "materials": "Plastiglomerate",
+    "path": "hybridannexes.jpg"
+  },
+      {
+    "email": "ajhuth1@berkeley.edu",
+    "title": "Design for Uncomfortable Consumption",
+    "owner": "Adam Huth",
+    "description": "What are the roles of living organisms in our daily consumption? This project explores the use of insects, specifically crickets, as a material - surfacing questions around ethics and sustainability. This exhibition displays a collection of material samples derived from crickets, primarily biodegradable bio-plastics and food safe composites. The dining set in this exhibition is cast with a cricket composite and is used to serve insect based foods.",
+    "materials": "Crickets",
+    "path": "designforuncomfortableconsumption.jpg"
+  },
+        {
+    "email": "titus@berkeley.edu",
+    "title": "Auroras of the Seas",
+    "owner": "Titus Ebbecke",
+    "description": "This project proposes the use of bioluminescent plankton as living computational matter. Dinoflagellate algae were grown and harvested in prepared media and stored in containers to explore possible applications. When shaken, the algae emits a short blue flash before it recharges for 30 minutes.",
+    "materials": "Bioluminescent plankton",
+    "path": "aurorasoftheseas.jpg"
+  },
+  {
+    "email": "xinyi_zhu@berkeley.edu",
+    "title": "The Woven Forest",
+    "owner": "Xinyi Zhu",
+    "description": "When we think about trees as adjectives, we think about them being vertical, sturdy, vital, and more. When we think about trees as materials, we think about them being used to make tools and houses. The Woven Forest explores and experiences trees as a soft, malleable, and light material for textile. By dematerializing and reassembling willow trees with yarn, the Woven Forest stands as a new practice of trees that makes intimate conversations between human and nature through touching and weaving.",
+    "materials": "Willow tree, sisal, yarn",
+    "path": "thewovenforest.jpg"
+  },
+  {
+    "email": "davidzhou17@berkeley.edu",
+    "title": "Bond",
+    "owner": "David Zhou",
+    "description": "A material exploration of clay and it’s adhesive properties. A mixture of clay, polyvinyl alcohol, and water are combined to form Bond: an adhesive interface that allows most surfaces to become a canvas for 3D printed material. Pen is to paper as 3D printing is to bond. ",
+    "materials": "Clay",
+    "path": "bond.jpg"
+  },
+  {
+    "email": "zhiyue_wang@berkeley.edu, hailliexxuanberkeleyedu",
+    "title": "Symbiotic clothing",
+    "owner": "Luna Wang, Jiaxuan Ren",
+    "description": "The symbiotic clothes explore an alternative future of using living things as wearables.",
+    "materials": "Airplants and Ecoflex",
+    "path": "symbioticclothing.jpg"
+  }
+]
